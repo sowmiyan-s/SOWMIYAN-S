@@ -37,6 +37,8 @@ Founder of [**Bound by Code**](https://instagram.com/bound_by_code) — where we
 
 ---
 
+![Snake]([https://github.com/SOWMIYAN-S/SOWMIYAN-S/blob/main/Sowmiyan%20S_20250529_163008_0001.gif](https://github.com/sowmiyan-s/SOWMIYAN-S/blob/main/github-snake-dark.svg))
+
 ## Let's Connect
 
 ### Me — Sowmiyan S
