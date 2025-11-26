@@ -18,12 +18,12 @@ Founder of [**Bound by Code**](https://instagram.com/bound_by_code) — where we
 
 ## Technologies & Tools
 
-- **Languages:** Java, Python, C  
+- **Languages:** Java, Python, 
 - **DSA Practice:** LeetCode, HackerRank, CodeChef  
 - **Python Stack:** NumPy, Pandas, scikit-learn  
 - **Database:** SQL, phpMyAdmin  
 - **Dev Tools:** Git, GitHub, VS Code  
-- **OS & CLI:** Ubuntu Linux, Windows, Bash  
+- **OS & CLI:** Linux, Windows.  
 
 ---
 
