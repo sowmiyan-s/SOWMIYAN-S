@@ -1,9 +1,9 @@
-name: Daily Contribution Streak
+name: Natural Contribution Streak
 
 on:
   schedule:
-    # Runs at midnight UTC every day
-    - cron: '0 0 * * *' 
+    # Runs every 6 hours (00:00, 06:00, 12:00, 18:00 UTC)
+    - cron: '0 */6 * * *' 
   workflow_dispatch:
 
 jobs:
@@ -16,16 +16,39 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         
-      - name: Make daily update
+      - name: Make natural updates
         run: |
-          # Write the current date to a file to create a change
-          echo "Last updated: $(date)" > streak.txt
+          # 30% chance to skip this execution entirely. 
+          # This leaves unpredictable gaps in the day, avoiding robotic, robotic fixed-interval schedules.
+          if [ $((RANDOM % 10)) -lt 3 ]; then
+            echo "Skipping this run for a more natural look."
+            exit 0
+          fi
           
-          # Configure Git
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          # CRITICAL: Configure Git to use YOUR GitHub user identity.
+          # This ensures the commits count as YOUR activity and light up the green dots!
+          git config --global user.name "${{ github.actor }}"
+          git config --global user.email "${{ github.actor_id }}+${{ github.actor }}@users.noreply.github.com"
           
-          # Add, commit, and push
-          git add streak.txt
-          git commit -m "chore: daily green dot strike update" || echo "No changes to commit"
+          # Decide a random number of commits to make (between 1 and 5)
+          NUM_COMMITS=$(( (RANDOM % 5) + 1 ))
+          echo "Simulating $NUM_COMMITS natural commits..."
+          
+          for i in $(seq 1 $NUM_COMMITS); do
+            # Add a slight random sleep (1 to 5 seconds) so timestamps look hand-typed
+            sleep $(( (RANDOM % 5) + 1 ))
+            
+            # Write unique data to the tracker file
+            echo "Natural update variant-$RANDOM at $(date)" >> streak.txt
+            
+            git add streak.txt
+            
+            # Use varying, standard-looking commit messages to look authentic
+            MESSAGES=("chore: sync workspace" "fix: minor typo" "docs: update registry" "chore: system update" "refactor: clean up structure")
+            RANDOM_MSG=${MESSAGES[$RANDOM % ${#MESSAGES[@]}]}
+            
+            git commit -m "$RANDOM_MSG"
+          done
+          
+          # Push all variations generated in this session back to GitHub
           git push
