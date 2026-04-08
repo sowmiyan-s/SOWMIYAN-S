@@ -28,13 +28,10 @@
 ```
 
 Developing **AI systems, machine learning applications, and developer platforms** while advancing skills in:
-
-```
-Algorithms
-Competitive Programming
-System Design
-AI Engineering
-```
+- 🧩 **Algorithms**
+- 🏆 **Competitive Programming**
+- 🏗️ **System Design**
+- 🤖 **AI Engineering**
 
 ---
 
@@ -42,11 +39,11 @@ AI Engineering
 
 | Domain | Focus |
 |------|------|
-| 🤖 LLM Systems | RAG pipelines, AI assistants |
-| 🧠 Machine Learning | Data science platforms |
-| 🌐 Full Stack | Modern web apps |
-| ⚙ AI Developer Tools | Frameworks and utilities |
-| 🏆 Hackathon Builds | Rapid prototypes |
+| 🤖 **LLM Systems** | RAG pipelines, AI assistants |
+| 🧠 **Machine Learning** | Data science platforms |
+| 🌐 **Full Stack** | Modern web apps |
+| ⚙️ **AI Developer Tools** | Frameworks and utilities |
+| 🏆 **Hackathon Builds** | Rapid prototypes |
 
 ---
 
@@ -72,14 +69,14 @@ AI Engineering
 <img src="https://img.shields.io/badge/LLM-6A5ACD?style=for-the-badge"/>
 </p>
 
-Libraries
-
-```
-NumPy
-Pandas
-Matplotlib
-Seaborn
-```
+**Libraries:**
+<br/>
+<p align="center">
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
 
 ### Databases
 
@@ -93,25 +90,23 @@ Seaborn
 <img src="https://skillicons.dev/icons?i=git,linux,vscode"/>
 </p>
 
-Additional Tools
-
-```
-Antigravity Browser
-Power BI
-Canva
-```
+**Additional Tools:**
+<br/>
+<p align="center">
+<img src="https://img.shields.io/badge/Antigravity-000000?style=for-the-badge&logo=web&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+</p>
 
 ---
 
 # 🧬 AI ECOSYSTEM EXPERIENCE
 
-```
-OpenClaw
-NVIDIA NeMo Guardrails
-Agentic AI Architectures
-LLM APIs
-Local LLM Deployment
-```
+- 🦖 **OpenClaw**
+- 🛡️ **NVIDIA NeMo Guardrails**
+- 🧠 **Agentic AI Architectures**
+- 🔌 **LLM APIs**
+- 💻 **Local LLM Deployment**
 
 ---
 
@@ -172,48 +167,49 @@ Computer vision project delivering an **interactive Dragon Ball Z inspired visua
 
 # 🧭 CURRENT ENGINEERING FOCUS
 
+<div align="center">
+
 | Focus Area | Link |
 |------|------|
-| DSA Practice | https://leetcode.com/u/sowmiyan-s/ |
-| Competitive Programming | https://codeforces.com/profile/sowmiyan |
-| React Development | Modern frontend systems |
-| AI Technology Exploration | LLM frameworks |
-| System Design | Backend architecture |
-| Community Building | Bound by Code |
+| 🧩 **DSA Practice** | [LeetCode Profile](https://leetcode.com/u/sowmiyan-s/) |
+| 🏆 **Competitive Programming** | [Codeforces Profile](https://codeforces.com/profile/sowmiyan) |
+| ⚛️ **React Development** | Modern frontend systems |
+| 🤖 **AI Technology Exploration** | LLM frameworks |
+| 🏗️ **System Design** | Backend architecture |
+| 🌍 **Community Building** | Bound by Code |
+
+</div>
 
 ---
 
 # 🌐 BOUND BY CODE
 
 **Bound by Code** is a technology creator community focused on:
+- 🤖 **Artificial Intelligence** 
+- 📚 **Programming Education**
+- 🛠️ **Developer Tools**
+- 📅 **Tech Events**
 
-```
-Artificial Intelligence
-Programming Education
-Developer Tools
-Tech Events
-```
+**Community activities include:**
+- 🏆 **Coding Contests**
+- 🛠️ **Workshops**
+- 📡 **Webinars**
+- 🎁 **Tech Giveaways**
+- 🎥 **Developer Content**
 
-Community activities include
+### 🔗 Platforms
 
-```
-Coding Contests
-Workshops
-Webinars
-Tech Giveaways
-Developer Content
-```
-
-Platforms
-
-YouTube  
-https://youtube.com/@bound-by-code
-
-Instagram  
-https://instagram.com/bound_by_code
-
-LinkedIn  
-https://linkedin.com/company/bound-by-code
+<p align="center">
+<a href="https://youtube.com/@bound-by-code">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+</a>
+<a href="https://instagram.com/bound_by_code">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+<a href="https://linkedin.com/company/bound-by-code">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+</p>
 
 ---
 
@@ -247,11 +243,7 @@ https://linkedin.com/company/bound-by-code
 
 # ⚡ ENGINEERING PHILOSOPHY
 
-```
-Build systems.
-Understand fundamentals.
-Stay relentlessly curious.
-```
+> *"Build systems. Understand fundamentals. Stay relentlessly curious."*
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
