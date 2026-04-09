@@ -37,10 +37,11 @@ def generate_project_markdown(repo, username):
     
     return f"""
 ### 🚀 [{name}]({url})
-> {description}
+- **Concept:** {description}
+- **Core Tech:** Primarly built with {language}.
 <p>
   <img src="https://img.shields.io/github/stars/{username}/{name}?style=flat-square&logo=github&color=FFD700" alt="Stars">
-  <img src="https://img.shields.io/badge/language-{language}-blue?style=flat-square" alt="Language">
+  <img src="https://img.shields.io/badge/Status-Active-00F7FF?style=flat-square" />
 </p>"""
 
 def update_readme(username):
