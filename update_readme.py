@@ -18,7 +18,7 @@ def get_top_repos(username, limit=5):
         return []
     
     repos = response.json()
-    # Filter out the profile README repo itself and any forks (optional)
+    # Filter out the profile README repo itself and any forks
     repos = [r for r in repos if r['name'].lower() != username.lower() and not r['fork']]
     
     # Sort by stars, then by update time
@@ -32,16 +32,15 @@ def generate_project_markdown(repo, username):
     url = repo['html_url']
     language = repo['language'] or "Misc"
     
-    # Clean description to avoid breaking markdown
+    # Clean description
     description = description.replace("\n", " ")
     
     return f"""
 ### 🚀 [{name}]({url})
-- **Concept:** {description}
-- **Core Tech:** Primarly built with {language}.
+> {description}
 <p>
   <img src="https://img.shields.io/github/stars/{username}/{name}?style=flat-square&logo=github&color=FFD700" alt="Stars">
-  <img src="https://img.shields.io/badge/Status-Active-00F7FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/language-{language}-blue?style=flat-square" alt="Language">
 </p>"""
 
 def update_readme(username):

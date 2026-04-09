@@ -1,180 +1,179 @@
-<!-- =========================================================================
-     SOWMIYAN S - NEURAL ARCHITECT & AI ENGINEER
-     "Pushing the boundaries of Agentic Systems & LLM Architectures"
-========================================================================= -->
+<!-- =======================================================
+     SOWMIYAN S - AI ENGINEER & SOFTWARE DEVELOPER
+======================================================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=250&section=header&text=NEURAL%20ARCHITECT&fontSize=60&fontAlignY=35&animation=twinkling&desc=SOWMIYAN%20S%20|%20AI%20Engineer%20|%20Agentic%20Systems%20Specialist&descSize=18&descAlignY=60&fontColor=00F7FF" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=SOWMIYAN%20S&fontSize=70&animation=fadeIn" />
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=INITIALIZING+COHESIVE+INTELLIGENCE...;DECODING+COMPLEX+SYSTEMS...;ARCHITECTURE+OPTIMIZATION+IN+PROGRESS...;STAY+RELENTLESSLY+CURIOUS;" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=32&duration=3000&pause=1200&color=00F7FF&center=true&vCenter=true&width=1000&lines=AI+Engineer;Software+Developer;Prompt+Engineer;Building+LLM+Systems" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/github/followers/sowmiyan-s?style=for-the-badge&logo=github&color=blueviolet"/>
+<img src="https://img.shields.io/github/stars/sowmiyan-s?style=for-the-badge&color=gold"/>
+<img src="https://komarev.com/ghpvc/?username=sowmiyan-s&style=for-the-badge&color=ff69b4&label=VIEWS"/>
+</p>
+
+<p align="center">
+<img src="https://github.com/SOWMIYAN-S/SOWMIYAN-S/blob/main/Sowmiyan%20S_20250529_163008_0001.gif" width="100%">
 </p>
 
 ---
 
-## 🛰️ CORE SYSTEM DASHBOARD
+## ⚡ ENGINEER PROFILE
 
-<div align="center">
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <b>SYSTEM STATUS</b><br>
-      <img src="https://img.shields.io/badge/Uptime-99.9%25-00FF00?style=for-the-badge&logoColor=white" />
-    </td>
-    <td align="center" width="33%">
-      <b>NEURAL LOAD</b><br>
-      <img src="https://img.shields.io/badge/LLM_Processing-High-00F7FF?style=for-the-badge&logoColor=white" />
-    </td>
-    <td align="center" width="33%">
-      <b>DEPLOYMENT</b><br>
-      <img src="https://img.shields.io/badge/Agentic_AI-Active-purple?style=for-the-badge&logoColor=white" />
-    </td>
-  </tr>
-</table>
-</div>
-
----
-
-## 🎨 THE ARCHITECT'S BLUEPRINT
-
-```mermaid
-graph LR
-    subgraph "Knowledge Input"
-    A[Problem Specs] --> B{Neural Processor}
-    end
-    
-    subgraph "Engineering Core"
-    B --> C[Algorithms]
-    B --> D[System Architecture]
-    B --> E[AI Integration]
-    end
-    
-    subgraph "Output Realization"
-    C --> F((Scalable Solutions))
-    D --> F
-    E --> F
-    end
-
-    style B fill:#00F7FF,stroke:#333,stroke-width:2px,color:#000
-    style F fill:#8A2BE2,stroke:#333,stroke-width:2px,color:#fff
+```diff
++ AI & Data Science Engineering Student
++ Building LLM Applications & AI Tools
++ Founder — Bound by Code
++ Exploring Agentic AI Systems
 ```
 
+Developing **AI systems, machine learning applications, and developer platforms** while advancing skills in:
+- 🧩 **Algorithms** | 🏆 **Competitive Programming** | 🏗️ **System Design** | 🤖 **AI Engineering**
+
 ---
 
-## 🧠 COGNITIVE STACK
+## 🧠 ENGINEERING DOMAINS
 
 <div align="center">
 
-| Layer | Technologies | Power Level |
-| :--- | :--- | :--- |
-| **Logic Engine** | `C++`, `Java`, `Python`, `DSA` | `[██████████] 100%` |
-| **Intelligence** | `LangChain`, `PyTorch`, `LLMs`, `NVIDIA NeMo` | `[████████░░] 85%` |
-| **Interface** | `React`, `Next.js`, `Tailwind`, `Framer Motion` | `[███████░░░] 70%` |
-| **Infrastructure** | `Docker`, `Git`, `Linux`, `AWS` | `[████████░░] 80%` |
+| Domain | Focus |
+| :--- | :--- |
+| 🤖 **LLM Systems** | RAG pipelines, AI assistants |
+| 🧠 **Machine Learning** | Data science platforms |
+| 🌐 **Full Stack** | Modern web apps |
+| ⚙️ **AI Developer Tools** | Frameworks and utilities |
+| 🏆 **Hackathon Builds** | Rapid prototypes |
 
 </div>
 
+---
+
+## 🛠 TECHNOLOGY STACK
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,react,nextjs,mongodb,mysql,git,docker,aws,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,react,nextjs,nodejs,mongodb,mysql,git,linux,vscode,docker,aws" />
 </p>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-black?style=for-the-badge&logo=chainlink"/>
+  <img src="https://img.shields.io/badge/NVIDIA_NeMo-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+</div>
 
 ---
 
-## 🧪 AI RESEARCH LAB (FEATURED PROJECTS)
-
+## 🚀 TRENDING PROJECTS
 <!-- PROJECTS_START -->
 
 ### 🚀 [Multi-Agent-Data-Analysis-System-with-CrewAI](https://github.com/sowmiyan-s/Multi-Agent-Data-Analysis-System-with-CrewAI)
-- **Concept:** No description provided.
-- **Core Tech:** Primarly built with Python.
+> No description provided.
 <p>
   <img src="https://img.shields.io/github/stars/sowmiyan-s/Multi-Agent-Data-Analysis-System-with-CrewAI?style=flat-square&logo=github&color=FFD700" alt="Stars">
-  <img src="https://img.shields.io/badge/Status-Active-00F7FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/language-Python-blue?style=flat-square" alt="Language">
 </p>
 
 ### 🚀 [Java-Problem-Solutions](https://github.com/sowmiyan-s/Java-Problem-Solutions)
-- **Concept:** Java DSA problems solved by me . Follow me on LinkedIn  @sowmiyan-s
-- **Core Tech:** Primarly built with Java.
+> Java DSA problems solved by me . Follow me on LinkedIn  @sowmiyan-s
 <p>
   <img src="https://img.shields.io/github/stars/sowmiyan-s/Java-Problem-Solutions?style=flat-square&logo=github&color=FFD700" alt="Stars">
-  <img src="https://img.shields.io/badge/Status-Active-00F7FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/language-Java-blue?style=flat-square" alt="Language">
 </p>
 
 ### 🚀 [GUARD-RAG](https://github.com/sowmiyan-s/GUARD-RAG)
-- **Concept:** No description provided.
-- **Core Tech:** Primarly built with Python.
+> No description provided.
 <p>
   <img src="https://img.shields.io/github/stars/sowmiyan-s/GUARD-RAG?style=flat-square&logo=github&color=FFD700" alt="Stars">
-  <img src="https://img.shields.io/badge/Status-Active-00F7FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/language-Python-blue?style=flat-square" alt="Language">
 </p>
 
 ### 🚀 [my-portfolio](https://github.com/sowmiyan-s/my-portfolio)
-- **Concept:** No description provided.
-- **Core Tech:** Primarly built with TypeScript.
+> No description provided.
 <p>
   <img src="https://img.shields.io/github/stars/sowmiyan-s/my-portfolio?style=flat-square&logo=github&color=FFD700" alt="Stars">
-  <img src="https://img.shields.io/badge/Status-Active-00F7FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/language-TypeScript-blue?style=flat-square" alt="Language">
 </p>
 
 ### 🚀 [rin-chat-website](https://github.com/sowmiyan-s/rin-chat-website)
-- **Concept:** No description provided.
-- **Core Tech:** Primarly built with TypeScript.
+> No description provided.
 <p>
   <img src="https://img.shields.io/github/stars/sowmiyan-s/rin-chat-website?style=flat-square&logo=github&color=FFD700" alt="Stars">
-  <img src="https://img.shields.io/badge/Status-Active-00F7FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/language-TypeScript-blue?style=flat-square" alt="Language">
 </p>
 <!-- PROJECTS_END -->
 
 ---
 
-## 📊 QUANTUM ANALYTICS
+## 🏆 ACHIEVEMENTS & TROPHIES
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sowmiyan-s&show_icons=true&theme=neon&hide_border=true&include_all_commits=true&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sowmiyan-s&layout=compact&theme=neon&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sowmiyan-s&theme=neon&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sowmiyan-s&theme=dracula&hide_border=true&area=true&bg_color=000000&color=00F7FF" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sowmiyan-s&theme=tokyonight&no-bg=true&margin-w=4" />
 </p>
 
 ---
 
-## 🕹️ REAL-TIME ACTIVITY LOOP
+## 🎮 FUN CORNER
 
+### Choose Your Character
+<p align="center">
+  <img src="https://img.shields.io/badge/Role-The_Architect-brightgreen?style=for-the-badge&logo=codepen" />
+  <img src="https://img.shields.io/badge/Role-The_Optimizer-blue?style=for-the-badge&logo=fastapi" />
+  <img src="https://img.shields.io/badge/Role-The_Builder-orange?style=for-the-badge&logo=construct3" />
+</p>
+
+### Contribution Snake Game
 <p align="center">
   <img src="https://raw.githubusercontent.com/sowmiyan-s/SOWMIYAN-S/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </p>
 
 ---
 
-## 🌐 BOUND BY CODE: THE MOTHERBOARD
+## 📊 GITHUB ANALYTICS
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=sowmiyan-s&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sowmiyan-s&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sowmiyan-s&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sowmiyan-s&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+</p>
+
+---
+
+## 🌐 BOUND BY CODE COMMUNITY
 
 <div align="center">
-  <p><i>Joining forces to architect the next era of digital intelligence.</i></p>
+  <p><b>Bound by Code</b> is a technology creator community built for the next generation of engineers.</p>
   <p>
-    <a href="https://youtube.com/@bound-by-code"><img src="https://img.shields.io/badge/STATION_A-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-    <a href="https://instagram.com/bound_by_code"><img src="https://img.shields.io/badge/STATION_B-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-    <a href="https://linkedin.com/company/bound-by-code"><img src="https://img.shields.io/badge/STATION_C-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="https://youtube.com/@bound-by-code"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+    <a href="https://instagram.com/bound_by_code"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+    <a href="https://linkedin.com/company/bound-by-code"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   </p>
 </div>
 
 ---
 
-## 📡 UPLINK (CONNECT)
+## 🤝 LET'S CONNECT
 
 <p align="center">
-  <a href="mailto:sowmiyan.btech.ai@gmail.com"><img src="https://img.shields.io/badge/ENCRYPTED_MAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/sowmiyan-s"><img src="https://img.shields.io/badge/NEURAL_LINK-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/sowmiyan-s"><img src="https://img.shields.io/badge/CORE_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="mailto:sowmiyan.btech.ai@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/sowmiyan-s"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://instagram.com/sowmiyan_s_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://github.com/sowmiyan-s"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 <p align="center">
-  <b>&lt;/ ARCHITECTURE COMPLETE &gt;</b><br>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00F7FF&height=120&section=footer"/>
+  <blockquote><i>"Build systems. Understand fundamentals. Stay relentlessly curious."</i></blockquote>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=100&section=footer" />
 </p>
