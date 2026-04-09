@@ -1,72 +1,53 @@
-<!-- =======================================================
-     SOWMIYAN S - AI ENGINEER & SOFTWARE DEVELOPER
-======================================================= -->
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=SOWMIYAN%20S&fontSize=70&animation=fadeIn" />
+  <img src="https://github.com/SOWMIYAN-S/SOWMIYAN-S/blob/main/Sowmiyan%20S_20250529_163008_0001.gif" width="100%">
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=32&duration=3000&pause=1200&color=00F7FF&center=true&vCenter=true&width=1000&lines=AI+Engineer;Software+Developer;Prompt+Engineer;Building+LLM+Systems" />
+  <img src="https://img.shields.io/github/followers/sowmiyan-s?style=flat-square&logo=github&labelColor=111&color=00F7FF" alt="Followers">
+  <img src="https://img.shields.io/github/stars/sowmiyan-s?style=flat-square&logo=github&labelColor=111&color=FFD700" alt="Stars">
+  <img src="https://komarev.com/ghpvc/?username=sowmiyan-s&style=flat-square&color=8A2BE2&label=SYS+VIEWS" alt="Visitors">
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/github/followers/sowmiyan-s?style=for-the-badge&logo=github&color=blueviolet"/>
-<img src="https://img.shields.io/github/stars/sowmiyan-s?style=for-the-badge&color=gold"/>
-<img src="https://komarev.com/ghpvc/?username=sowmiyan-s&style=for-the-badge&color=ff69b4&label=VIEWS"/>
-</p>
-
-<p align="center">
-<img src="https://github.com/SOWMIYAN-S/SOWMIYAN-S/blob/main/Sowmiyan%20S_20250529_163008_0001.gif" width="100%">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1200&color=00F7FF&center=true&vCenter=true&width=1000&lines=AI+ENGINEER;SOFTWARE+DEVELOPER;PROMPT+ENGINEER;BUILDING+LLM+SYSTEMS" />
 </p>
 
 ---
 
-## ⚡ ENGINEER PROFILE
+### ⚡ CORE SYSTEM SPECS
 
 ```diff
 + AI & Data Science Engineering Student
-+ Building LLM Applications & AI Tools
-+ Founder — Bound by Code
-+ Exploring Agentic AI Systems
++ Founder — Bound by Code (Tech Community)
++ Explorer of Agentic AI & RAG Pipelines
 ```
 
-Developing **AI systems, machine learning applications, and developer platforms** while advancing skills in:
-- 🧩 **Algorithms** | 🏆 **Competitive Programming** | 🏗️ **System Design** | 🤖 **AI Engineering**
+Developing **intelligent systems and scalable platforms** while refining performance in:
+`ALGORITHMS` | `SYSTEM DESIGN` | `AI ARCHITECTURE` | `FULL STACK`
 
 ---
 
-## 🧠 ENGINEERING DOMAINS
+### 🛠 TECHNOLOGY STACK
 
 <div align="center">
 
-| Domain | Focus |
+| CATEGORY | TECH STACK |
 | :--- | :--- |
-| 🤖 **LLM Systems** | RAG pipelines, AI assistants |
-| 🧠 **Machine Learning** | Data science platforms |
-| 🌐 **Full Stack** | Modern web apps |
-| ⚙️ **AI Developer Tools** | Frameworks and utilities |
-| 🏆 **Hackathon Builds** | Rapid prototypes |
+| **Languages** | `Python` `Java` `C++` `JavaScript` `HTML/CSS` |
+| **AI / ML** | `LangChain` `NVIDIA NeMo` `Scikit-Learn` `PyTorch` |
+| **Web Dev** | `React` `Next.js` `Node.js` `Tailwind` |
+| **Database** | `MongoDB` `MySQL` `PostgreSQL` `Firebase` |
+| **DevOps** | `Git` `Docker` `AWS` `Linux` `Postman` |
 
 </div>
-
----
-
-## 🛠 TECHNOLOGY STACK
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,react,nextjs,nodejs,mongodb,mysql,git,linux,vscode,docker,aws" />
+  <img src="https://skillicons.dev/icons?i=py,java,cpp,js,react,next,mongodb,mysql,git,docker,aws,linux,vscode&theme=dark" />
 </p>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-black?style=for-the-badge&logo=chainlink"/>
-  <img src="https://img.shields.io/badge/NVIDIA_NeMo-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
-</div>
 
 ---
 
-## 🚀 TRENDING PROJECTS
+### 🚀 DYNAMIC PROJECTS
 <!-- PROJECTS_START -->
 
 ### 🚀 [Multi-Agent-Data-Analysis-System-with-CrewAI](https://github.com/sowmiyan-s/Multi-Agent-Data-Analysis-System-with-CrewAI)
@@ -107,73 +88,54 @@ Developing **AI systems, machine learning applications, and developer platforms*
 
 ---
 
-## 🏆 ACHIEVEMENTS & TROPHIES
+### 📊 ANALYTICS HUB
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sowmiyan-s&theme=tokyonight&no-bg=true&margin-w=4" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=sowmiyan-s&show_icons=true&theme=omni&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sowmiyan-s&layout=donut&theme=omni&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sowmiyan-s&theme=omni&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sowmiyan-s&theme=dracula&hide_border=true&area=true&bg_color=111&color=00F7FF" width="100%" />
 </p>
 
 ---
 
-## 🎮 FUN CORNER
+### 🎮 CONTRIBUTION GRID
 
-### Choose Your Character
-<p align="center">
-  <img src="https://img.shields.io/badge/Role-The_Architect-brightgreen?style=for-the-badge&logo=codepen" />
-  <img src="https://img.shields.io/badge/Role-The_Optimizer-blue?style=for-the-badge&logo=fastapi" />
-  <img src="https://img.shields.io/badge/Role-The_Builder-orange?style=for-the-badge&logo=construct3" />
-</p>
-
-### Contribution Snake Game
 <p align="center">
   <img src="https://raw.githubusercontent.com/sowmiyan-s/SOWMIYAN-S/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  <i>(Animation updates every 12 hours via GitHub Actions)</i>
 </p>
 
 ---
 
-## 📊 GITHUB ANALYTICS
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=sowmiyan-s&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sowmiyan-s&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sowmiyan-s&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sowmiyan-s&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-</p>
-
----
-
-## 🌐 BOUND BY CODE COMMUNITY
+### 🌐 THE MOTHERBOARD (COMMUNITY)
 
 <div align="center">
-  <p><b>Bound by Code</b> is a technology creator community built for the next generation of engineers.</p>
+  <p><b>Bound by Code</b>: Architecting the next generation of engineers.</p>
   <p>
-    <a href="https://youtube.com/@bound-by-code"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-    <a href="https://instagram.com/bound_by_code"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-    <a href="https://linkedin.com/company/bound-by-code"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="https://youtube.com/@bound-by-code"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+    <a href="https://instagram.com/bound_by_code"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+    <a href="https://linkedin.com/company/bound-by-code"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   </p>
 </div>
 
 ---
 
-## 🤝 LET'S CONNECT
+### 🤝 UPLINK
 
 <p align="center">
-  <a href="mailto:sowmiyan.btech.ai@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/sowmiyan-s"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://instagram.com/sowmiyan_s_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://github.com/sowmiyan-s"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="mailto:sowmiyan.btech.ai@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/sowmiyan-s"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="https://instagram.com/sowmiyan_s_"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"></a>
+  <a href="https://github.com/sowmiyan-s"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white"></a>
 </p>
 
 <p align="center">
   <blockquote><i>"Build systems. Understand fundamentals. Stay relentlessly curious."</i></blockquote>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=100&section=footer" />
 </p>
