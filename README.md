@@ -57,7 +57,7 @@ I am an **AI & Data Science student** and the founder of **Bound by Code**. My p
 </p>
 
 ### 🚀 [GUARD-RAG](https://github.com/sowmiyan-s/GUARD-RAG)
-> No description provided.
+> GUARD-RAG is a RAG chatbot tool that runs as a Python package and operates completely offline.
 <p>
   <img src="https://img.shields.io/github/stars/sowmiyan-s/GUARD-RAG?style=flat-square&logo=github&color=FFD700" alt="Stars">
   <img src="https://img.shields.io/badge/language-Python-blue?style=flat-square" alt="Language">
