@@ -56,6 +56,13 @@ I am an **AI & Data Science student** and the founder of **Bound by Code**. My p
   <img src="https://img.shields.io/badge/language-Java-blue?style=flat-square" alt="Language">
 </p>
 
+### 🚀 [We-Share](https://github.com/sowmiyan-s/We-Share)
+> No description provided.
+<p>
+  <img src="https://img.shields.io/github/stars/sowmiyan-s/We-Share?style=flat-square&logo=github&color=FFD700" alt="Stars">
+  <img src="https://img.shields.io/badge/language-C#-blue?style=flat-square" alt="Language">
+</p>
+
 ### 🚀 [GUARD-RAG](https://github.com/sowmiyan-s/GUARD-RAG)
 > GUARD-RAG is a RAG chatbot tool that runs as a Python package and operates completely offline.
 <p>
@@ -67,13 +74,6 @@ I am an **AI & Data Science student** and the founder of **Bound by Code**. My p
 > No description provided.
 <p>
   <img src="https://img.shields.io/github/stars/sowmiyan-s/my-portfolio?style=flat-square&logo=github&color=FFD700" alt="Stars">
-  <img src="https://img.shields.io/badge/language-TypeScript-blue?style=flat-square" alt="Language">
-</p>
-
-### 🚀 [rin-chat-website](https://github.com/sowmiyan-s/rin-chat-website)
-> No description provided.
-<p>
-  <img src="https://img.shields.io/github/stars/sowmiyan-s/rin-chat-website?style=flat-square&logo=github&color=FFD700" alt="Stars">
   <img src="https://img.shields.io/badge/language-TypeScript-blue?style=flat-square" alt="Language">
 </p>
 <!-- PROJECTS_END -->
