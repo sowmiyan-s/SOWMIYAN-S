@@ -163,8 +163,12 @@ currently   : Building production-grade AI systems & multi-agent architectures
 ## 📊 GITHUB ANALYTICS
 
 <p align="center">
-  <img height="195" src="https://github-readme-stats.vercel.app/api?username=sowmiyan-s&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117" />
-  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sowmiyan-s&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sowmiyan-s&theme=tokyonight" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sowmiyan-s&theme=tokyonight" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sowmiyan-s&theme=tokyonight" width="100%"/>
 </p>
 
 <p align="center">
