@@ -97,63 +97,42 @@ currently   : Building production-grade AI systems & multi-agent architectures
 
 <!-- PROJECTS_START -->
 
-### 🤖 [GUARD-RAG](https://github.com/sowmiyan-s/GUARD-RAG)
-> **Offline RAG Chatbot** — A production-ready Python package for fully offline Retrieval-Augmented Generation. Powered by local LLMs via Ollama, zero cloud dependency.
+### 🤖 AI & LLM Projects
 
-<p>
-  <img src="https://img.shields.io/github/stars/sowmiyan-s/GUARD-RAG?style=flat-square&logo=github&color=FFD700">
-  <img src="https://img.shields.io/badge/PyPI-Published-success?style=flat-square&logo=pypi">
-  <img src="https://img.shields.io/badge/Stack-Python%20%7C%20Ollama%20%7C%20LangChain-blueviolet?style=flat-square">
+<p align="center">
+  <a href="https://github.com/sowmiyan-s/GUARD-RAG">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sowmiyan-s&repo=GUARD-RAG&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  </a>
+  <a href="https://github.com/sowmiyan-s/Multi-Agent-Data-Analysis-System-with-CrewAI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sowmiyan-s&repo=Multi-Agent-Data-Analysis-System-with-CrewAI&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GUARD--RAG-Offline%20RAG%20%7C%20Ollama%20%7C%20LangChain%20%7C%20PyPI%20Published-blueviolet?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Multi--Agent-CrewAI%20%7C%20Tool--Use%20%7C%20Memory%20%7C%20Autonomous%20Analysis-blue?style=flat-square"/>
 </p>
 
 ---
 
-### 🧠 [Multi-Agent Data Analysis System](https://github.com/sowmiyan-s/Multi-Agent-Data-Analysis-System-with-CrewAI)
-> **CrewAI + LLM Pipeline** — Multi-agent orchestration framework for autonomous data analysis, powered by CrewAI agents with tool-use and memory.
+### 🌐 Web & Desktop Projects
 
-<p>
-  <img src="https://img.shields.io/github/stars/sowmiyan-s/Multi-Agent-Data-Analysis-System-with-CrewAI?style=flat-square&logo=github&color=FFD700">
-  <img src="https://img.shields.io/badge/Stack-CrewAI%20%7C%20Python%20%7C%20OpenAI-blue?style=flat-square">
+<p align="center">
+  <a href="https://github.com/sowmiyan-s/my-portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sowmiyan-s&repo=my-portfolio&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  </a>
+  <a href="https://github.com/sowmiyan-s/We-Share">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sowmiyan-s&repo=We-Share&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  </a>
 </p>
 
----
-
-### 🌐 [My Portfolio](https://github.com/sowmiyan-s/my-portfolio)
-> Personal developer portfolio built with modern TypeScript stack — showcasing projects, skills, and community work.
-
-<p>
-  <img src="https://img.shields.io/github/stars/sowmiyan-s/my-portfolio?style=flat-square&logo=github&color=FFD700">
-  <img src="https://img.shields.io/badge/Stack-TypeScript%20%7C%20React%20%7C%20Vite-00F7FF?style=flat-square">
-</p>
-
----
-
-### 🔗 [We-Share](https://github.com/sowmiyan-s/We-Share)
-> Peer-to-peer file sharing desktop app with radar-style device discovery and real-time transfer progress.
-
-<p>
-  <img src="https://img.shields.io/github/stars/sowmiyan-s/We-Share?style=flat-square&logo=github&color=FFD700">
-  <img src="https://img.shields.io/badge/Stack-C%23%20%7C%20WinForms%20%7C%20TCP-blueviolet?style=flat-square">
-</p>
-
----
-
-### 💬 [Rin Chat Website](https://github.com/sowmiyan-s/rin-chat-website)
-> AI-powered chat interface built with modern TypeScript & React.
-
-<p>
-  <img src="https://img.shields.io/github/stars/sowmiyan-s/rin-chat-website?style=flat-square&logo=github&color=FFD700">
-  <img src="https://img.shields.io/badge/Stack-TypeScript%20%7C%20Next.js-blue?style=flat-square">
-</p>
-
----
-
-### ☕ [Java DSA Problem Solutions](https://github.com/sowmiyan-s/Java-Problem-Solutions)
-> 200+ curated DSA problems solved in Java — clean solutions with explanations. Follow-along resource for interview prep.
-
-<p>
-  <img src="https://img.shields.io/github/stars/sowmiyan-s/Java-Problem-Solutions?style=flat-square&logo=github&color=FFD700">
-  <img src="https://img.shields.io/badge/Stack-Java%20%7C%20DSA%20%7C%20OOP-orange?style=flat-square">
+<p align="center">
+  <a href="https://github.com/sowmiyan-s/rin-chat-website">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sowmiyan-s&repo=rin-chat-website&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  </a>
+  <a href="https://github.com/sowmiyan-s/Java-Problem-Solutions">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sowmiyan-s&repo=Java-Problem-Solutions&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  </a>
 </p>
 
 <!-- PROJECTS_END -->
