@@ -97,44 +97,40 @@ currently   : Building production-grade AI systems & multi-agent architectures
 
 <!-- PROJECTS_START -->
 
-### 🤖 AI & LLM Projects
-
-<p align="center">
-  <a href="https://github.com/sowmiyan-s/GUARD-RAG">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sowmiyan-s&repo=GUARD-RAG&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  </a>
-  <a href="https://github.com/sowmiyan-s/Multi-Agent-Data-Analysis-System-with-CrewAI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sowmiyan-s&repo=Multi-Agent-Data-Analysis-System-with-CrewAI&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  </a>
+### 🚀 [Multi-Agent-Data-Analysis-System-with-CrewAI](https://github.com/sowmiyan-s/Multi-Agent-Data-Analysis-System-with-CrewAI)
+> No description provided.
+<p>
+  <img src="https://img.shields.io/github/stars/sowmiyan-s/Multi-Agent-Data-Analysis-System-with-CrewAI?style=flat-square&logo=github&color=FFD700" alt="Stars">
+  <img src="https://img.shields.io/badge/language-Python-blue?style=flat-square" alt="Language">
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/GUARD--RAG-Offline%20RAG%20%7C%20Ollama%20%7C%20LangChain%20%7C%20PyPI%20Published-blueviolet?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Multi--Agent-CrewAI%20%7C%20Tool--Use%20%7C%20Memory%20%7C%20Autonomous%20Analysis-blue?style=flat-square"/>
+### 🚀 [Java-Problem-Solutions](https://github.com/sowmiyan-s/Java-Problem-Solutions)
+> Java DSA problems solved by me . Follow me on LinkedIn  @sowmiyan-s
+<p>
+  <img src="https://img.shields.io/github/stars/sowmiyan-s/Java-Problem-Solutions?style=flat-square&logo=github&color=FFD700" alt="Stars">
+  <img src="https://img.shields.io/badge/language-Java-blue?style=flat-square" alt="Language">
 </p>
 
----
-
-### 🌐 Web & Desktop Projects
-
-<p align="center">
-  <a href="https://github.com/sowmiyan-s/my-portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sowmiyan-s&repo=my-portfolio&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  </a>
-  <a href="https://github.com/sowmiyan-s/We-Share">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sowmiyan-s&repo=We-Share&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  </a>
+### 🚀 [sri-mariamman-tractor-center](https://github.com/sowmiyan-s/sri-mariamman-tractor-center)
+> No description provided.
+<p>
+  <img src="https://img.shields.io/github/stars/sowmiyan-s/sri-mariamman-tractor-center?style=flat-square&logo=github&color=FFD700" alt="Stars">
+  <img src="https://img.shields.io/badge/language-JavaScript-blue?style=flat-square" alt="Language">
 </p>
 
-<p align="center">
-  <a href="https://github.com/sowmiyan-s/rin-chat-website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sowmiyan-s&repo=rin-chat-website&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  </a>
-  <a href="https://github.com/sowmiyan-s/Java-Problem-Solutions">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sowmiyan-s&repo=Java-Problem-Solutions&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  </a>
+### 🚀 [GUARD-RAG](https://github.com/sowmiyan-s/GUARD-RAG)
+> GUARD-RAG is a RAG chatbot tool that runs as a Python package and operates completely offline.
+<p>
+  <img src="https://img.shields.io/github/stars/sowmiyan-s/GUARD-RAG?style=flat-square&logo=github&color=FFD700" alt="Stars">
+  <img src="https://img.shields.io/badge/language-Python-blue?style=flat-square" alt="Language">
 </p>
 
+### 🚀 [We-Share](https://github.com/sowmiyan-s/We-Share)
+> No description provided.
+<p>
+  <img src="https://img.shields.io/github/stars/sowmiyan-s/We-Share?style=flat-square&logo=github&color=FFD700" alt="Stars">
+  <img src="https://img.shields.io/badge/language-C#-blue?style=flat-square" alt="Language">
+</p>
 <!-- PROJECTS_END -->
 
 ---
