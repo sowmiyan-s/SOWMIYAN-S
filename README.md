@@ -70,32 +70,25 @@ currently   : Building production-grade AI systems & multi-agent architectures
 
 ## 🏆 LEETCODE VISUALIZATION
 
-<!-- Main Stats + Heatmap -->
+<!-- Primary card — stats + submission heatmap (most reliable) -->
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/sowmiyan-s?theme=dark&font=JetBrains+Mono&ext=heatmap&border=0&radius=20&animation=true" alt="LeetCode Stats Card" width="70%"/>
+  <img src="https://leetcard.jacoblin.cool/sowmiyan-s?theme=dark&font=JetBrains+Mono&ext=heatmap&border=0&radius=20" alt="LeetCode Stats + Heatmap" width="70%"/>
 </p>
 
-<!-- Secondary Stats Card -->
+<!-- Difficulty breakdown using Alfa LeetCode API (SVG via shields) -->
 <p align="center">
-  <img src="https://leetcode-stats-six.vercel.app/api?username=sowmiyan-s&theme=dark" alt="LeetCode Stats" width="50%"/>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://alfa-leetcode-api.onrender.com/userProfile/sowmiyan-s&query=$.totalSolved&label=Total%20Solved&style=for-the-badge&color=FFA116&logo=leetcode&logoColor=black" alt="Total Solved"/>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://alfa-leetcode-api.onrender.com/userProfile/sowmiyan-s&query=$.easySolved&label=Easy&style=for-the-badge&color=00b8a3" alt="Easy Solved"/>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://alfa-leetcode-api.onrender.com/userProfile/sowmiyan-s&query=$.mediumSolved&label=Medium&style=for-the-badge&color=ffc01e" alt="Medium Solved"/>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://alfa-leetcode-api.onrender.com/userProfile/sowmiyan-s&query=$.hardSolved&label=Hard&style=for-the-badge&color=ef4743" alt="Hard Solved"/>
 </p>
 
-<!-- Badge Showcase -->
+<!-- Ranking badge -->
 <p align="center">
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=sowmiyan-s&theme=dark&border=no" alt="LeetCode Badges" width="70%"/>
-</p>
-
-<!-- Contest Rating Graph -->
-<p align="center">
-  <img src="https://leetcode-rating-graph.vercel.app/api?username=sowmiyan-s&theme=dark" alt="Contest Rating" width="70%"/>
-</p>
-
-<p align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://alfa-leetcode-api.onrender.com/userProfile/sowmiyan-s&query=$.ranking&label=Global%20Rank&style=for-the-badge&color=blueviolet&logo=leetcode&logoColor=white" alt="LeetCode Ranking"/>
   <a href="https://leetcode.com/sowmiyan-s">
-    <img src="https://img.shields.io/badge/View_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+    <img src="https://img.shields.io/badge/View_on_LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
-  <img src="https://img.shields.io/badge/Problems_Solved-300%2B-00F7FF?style=for-the-badge&logo=leetcode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Languages-Java%20%7C%20Python-blueviolet?style=for-the-badge"/>
 </p>
 
 ---
@@ -133,28 +126,25 @@ currently   : Building production-grade AI systems & multi-agent architectures
   <img src="https://img.shields.io/badge/Stack-TypeScript%20%7C%20React%20%7C%20Vite-00F7FF?style=flat-square">
 </p>
 
-<<<<<<< HEAD
+---
+
+### 🔗 [We-Share](https://github.com/sowmiyan-s/We-Share)
+> Peer-to-peer file sharing desktop app with radar-style device discovery and real-time transfer progress.
+
+<p>
+  <img src="https://img.shields.io/github/stars/sowmiyan-s/We-Share?style=flat-square&logo=github&color=FFD700">
+  <img src="https://img.shields.io/badge/Stack-C%23%20%7C%20WinForms%20%7C%20TCP-blueviolet?style=flat-square">
+</p>
+
 ---
 
 ### 💬 [Rin Chat Website](https://github.com/sowmiyan-s/rin-chat-website)
 > AI-powered chat interface built with modern TypeScript & React.
 
-=======
-### 🚀 [We-Share](https://github.com/sowmiyan-s/We-Share)
-> No description provided.
-<p>
-  <img src="https://img.shields.io/github/stars/sowmiyan-s/We-Share?style=flat-square&logo=github&color=FFD700" alt="Stars">
-  <img src="https://img.shields.io/badge/language-C#-blue?style=flat-square" alt="Language">
-</p>
-
-### 🚀 [my-portfolio](https://github.com/sowmiyan-s/my-portfolio)
-> No description provided.
->>>>>>> a398f033dbb3faf5da68bdccf12857aa471b74e7
 <p>
   <img src="https://img.shields.io/github/stars/sowmiyan-s/rin-chat-website?style=flat-square&logo=github&color=FFD700">
   <img src="https://img.shields.io/badge/Stack-TypeScript%20%7C%20Next.js-blue?style=flat-square">
 </p>
-<<<<<<< HEAD
 
 ---
 
@@ -166,8 +156,6 @@ currently   : Building production-grade AI systems & multi-agent architectures
   <img src="https://img.shields.io/badge/Stack-Java%20%7C%20DSA%20%7C%20OOP-orange?style=flat-square">
 </p>
 
-=======
->>>>>>> a398f033dbb3faf5da68bdccf12857aa471b74e7
 <!-- PROJECTS_END -->
 
 ---
@@ -180,7 +168,7 @@ currently   : Building production-grade AI systems & multi-agent architectures
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sowmiyan-s&theme=tokyonight&hide_border=true&background=0d1117&fire=00F7FF&ring=blueviolet&currStreakLabel=00F7FF" />
+  <img src="https://streak-stats.demolab.com/?user=sowmiyan-s&theme=tokyonight&hide_border=true&background=0d1117&fire=00F7FF&ring=blueviolet&currStreakLabel=00F7FF" />
 </p>
 
 <p align="center">
@@ -240,10 +228,6 @@ currently   : Building production-grade AI systems & multi-agent architectures
   <a href="https://leetcode.com/sowmiyan-s">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
   </a>
-</p>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
 <p align="center">
