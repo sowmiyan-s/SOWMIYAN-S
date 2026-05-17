@@ -117,15 +117,28 @@ currently   : Building production-grade AI systems & multi-agent architectures
   <img src="https://img.shields.io/badge/Stack-TypeScript%20%7C%20React%20%7C%20Vite-00F7FF?style=flat-square">
 </p>
 
+<<<<<<< HEAD
 ---
 
 ### 💬 [Rin Chat Website](https://github.com/sowmiyan-s/rin-chat-website)
 > AI-powered chat interface built with modern TypeScript & React.
 
+=======
+### 🚀 [We-Share](https://github.com/sowmiyan-s/We-Share)
+> No description provided.
+<p>
+  <img src="https://img.shields.io/github/stars/sowmiyan-s/We-Share?style=flat-square&logo=github&color=FFD700" alt="Stars">
+  <img src="https://img.shields.io/badge/language-C#-blue?style=flat-square" alt="Language">
+</p>
+
+### 🚀 [my-portfolio](https://github.com/sowmiyan-s/my-portfolio)
+> No description provided.
+>>>>>>> a398f033dbb3faf5da68bdccf12857aa471b74e7
 <p>
   <img src="https://img.shields.io/github/stars/sowmiyan-s/rin-chat-website?style=flat-square&logo=github&color=FFD700">
   <img src="https://img.shields.io/badge/Stack-TypeScript%20%7C%20Next.js-blue?style=flat-square">
 </p>
+<<<<<<< HEAD
 
 ---
 
@@ -137,6 +150,8 @@ currently   : Building production-grade AI systems & multi-agent architectures
   <img src="https://img.shields.io/badge/Stack-Java%20%7C%20DSA%20%7C%20OOP-orange?style=flat-square">
 </p>
 
+=======
+>>>>>>> a398f033dbb3faf5da68bdccf12857aa471b74e7
 <!-- PROJECTS_END -->
 
 ---
