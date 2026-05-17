@@ -68,18 +68,34 @@ currently   : Building production-grade AI systems & multi-agent architectures
 
 ---
 
-## 🏆 LEETCODE LIVE INSIGHTS
+## 🏆 LEETCODE VISUALIZATION
 
+<!-- Main Stats + Heatmap -->
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/sowmiyan-s?theme=dark&font=Baloo+2&ext=heatmap&border=0&radius=20" alt="LeetCode Stats" width="65%"/>
+  <img src="https://leetcard.jacoblin.cool/sowmiyan-s?theme=dark&font=JetBrains+Mono&ext=heatmap&border=0&radius=20&animation=true" alt="LeetCode Stats Card" width="70%"/>
+</p>
+
+<!-- Secondary Stats Card -->
+<p align="center">
+  <img src="https://leetcode-stats-six.vercel.app/api?username=sowmiyan-s&theme=dark" alt="LeetCode Stats" width="50%"/>
+</p>
+
+<!-- Badge Showcase -->
+<p align="center">
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=sowmiyan-s&theme=dark&border=no" alt="LeetCode Badges" width="70%"/>
+</p>
+
+<!-- Contest Rating Graph -->
+<p align="center">
+  <img src="https://leetcode-rating-graph.vercel.app/api?username=sowmiyan-s&theme=dark" alt="Contest Rating" width="70%"/>
 </p>
 
 <p align="center">
   <a href="https://leetcode.com/sowmiyan-s">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+    <img src="https://img.shields.io/badge/View_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
-  <img src="https://img.shields.io/badge/Solved-300%2B-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DSA-Java%20%7C%20Python-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Problems_Solved-300%2B-00F7FF?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Languages-Java%20%7C%20Python-blueviolet?style=for-the-badge"/>
 </p>
 
 ---
