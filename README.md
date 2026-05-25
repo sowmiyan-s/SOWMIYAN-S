@@ -111,6 +111,13 @@ currently   : Building production-grade AI systems & multi-agent architectures
   <img src="https://img.shields.io/badge/language-Java-blue?style=flat-square" alt="Language">
 </p>
 
+### 🚀 [leetcode-insight](https://github.com/sowmiyan-s/leetcode-insight)
+> No description provided.
+<p>
+  <img src="https://img.shields.io/github/stars/sowmiyan-s/leetcode-insight?style=flat-square&logo=github&color=FFD700" alt="Stars">
+  <img src="https://img.shields.io/badge/language-TypeScript-blue?style=flat-square" alt="Language">
+</p>
+
 ### 🚀 [We-Share](https://github.com/sowmiyan-s/We-Share)
 > We Share is a open-source desktop app for instant file transfers  with or without a Wi-Fi router
 <p>
@@ -123,13 +130,6 @@ currently   : Building production-grade AI systems & multi-agent architectures
 <p>
   <img src="https://img.shields.io/github/stars/sowmiyan-s/sri-mariamman-tractor-center?style=flat-square&logo=github&color=FFD700" alt="Stars">
   <img src="https://img.shields.io/badge/language-JavaScript-blue?style=flat-square" alt="Language">
-</p>
-
-### 🚀 [GUARD-RAG](https://github.com/sowmiyan-s/GUARD-RAG)
-> GUARD-RAG is a RAG chatbot tool that runs as a Python package and operates completely offline.
-<p>
-  <img src="https://img.shields.io/github/stars/sowmiyan-s/GUARD-RAG?style=flat-square&logo=github&color=FFD700" alt="Stars">
-  <img src="https://img.shields.io/badge/language-Python-blue?style=flat-square" alt="Language">
 </p>
 <!-- PROJECTS_END -->
 
