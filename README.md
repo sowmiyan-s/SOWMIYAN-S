@@ -111,6 +111,13 @@ currently   : Building production-grade AI systems & multi-agent architectures
   <img src="https://img.shields.io/badge/language-Java-blue?style=flat-square" alt="Language">
 </p>
 
+### 🚀 [MY-CLAUD-SKILL](https://github.com/sowmiyan-s/MY-CLAUD-SKILL)
+> No description provided.
+<p>
+  <img src="https://img.shields.io/github/stars/sowmiyan-s/MY-CLAUD-SKILL?style=flat-square&logo=github&color=FFD700" alt="Stars">
+  <img src="https://img.shields.io/badge/language-Misc-blue?style=flat-square" alt="Language">
+</p>
+
 ### 🚀 [We-Share](https://github.com/sowmiyan-s/We-Share)
 > We Share is a open-source desktop app for instant file transfers  with or without a Wi-Fi router
 <p>
@@ -123,13 +130,6 @@ currently   : Building production-grade AI systems & multi-agent architectures
 <p>
   <img src="https://img.shields.io/github/stars/sowmiyan-s/leetcode-insight?style=flat-square&logo=github&color=FFD700" alt="Stars">
   <img src="https://img.shields.io/badge/language-TypeScript-blue?style=flat-square" alt="Language">
-</p>
-
-### 🚀 [sri-mariamman-tractor-center](https://github.com/sowmiyan-s/sri-mariamman-tractor-center)
-> Modern 3D website built with the latest technology.
-<p>
-  <img src="https://img.shields.io/github/stars/sowmiyan-s/sri-mariamman-tractor-center?style=flat-square&logo=github&color=FFD700" alt="Stars">
-  <img src="https://img.shields.io/badge/language-JavaScript-blue?style=flat-square" alt="Language">
 </p>
 <!-- PROJECTS_END -->
 
