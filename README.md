@@ -111,10 +111,10 @@ currently   : Building production-grade AI systems & multi-agent architectures
   <img src="https://img.shields.io/badge/language-Java-blue?style=flat-square" alt="Language">
 </p>
 
-### 🚀 [MY-CLAUD-SKILL](https://github.com/sowmiyan-s/MY-CLAUD-SKILL)
-> No description provided.
+### 🚀 [awesome-claude-skills](https://github.com/sowmiyan-s/awesome-claude-skills)
+> Production-ready Claude Skills for developers, creators, founders, and AI power users.
 <p>
-  <img src="https://img.shields.io/github/stars/sowmiyan-s/MY-CLAUD-SKILL?style=flat-square&logo=github&color=FFD700" alt="Stars">
+  <img src="https://img.shields.io/github/stars/sowmiyan-s/awesome-claude-skills?style=flat-square&logo=github&color=FFD700" alt="Stars">
   <img src="https://img.shields.io/badge/language-Misc-blue?style=flat-square" alt="Language">
 </p>
 
