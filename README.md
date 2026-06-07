@@ -111,11 +111,11 @@ currently   : Building production-grade AI systems & multi-agent architectures
   <img src="https://img.shields.io/badge/language-Java-blue?style=flat-square" alt="Language">
 </p>
 
-### 🚀 [awesome-claude-skills](https://github.com/sowmiyan-s/awesome-claude-skills)
-> Production-ready Claude Skills for developers, creators, founders, and AI power users.
+### 🚀 [my-portfolio](https://github.com/sowmiyan-s/my-portfolio)
+> No description provided.
 <p>
-  <img src="https://img.shields.io/github/stars/sowmiyan-s/awesome-claude-skills?style=flat-square&logo=github&color=FFD700" alt="Stars">
-  <img src="https://img.shields.io/badge/language-Misc-blue?style=flat-square" alt="Language">
+  <img src="https://img.shields.io/github/stars/sowmiyan-s/my-portfolio?style=flat-square&logo=github&color=FFD700" alt="Stars">
+  <img src="https://img.shields.io/badge/language-TypeScript-blue?style=flat-square" alt="Language">
 </p>
 
 ### 🚀 [We-Share](https://github.com/sowmiyan-s/We-Share)
@@ -125,11 +125,11 @@ currently   : Building production-grade AI systems & multi-agent architectures
   <img src="https://img.shields.io/badge/language-C#-blue?style=flat-square" alt="Language">
 </p>
 
-### 🚀 [leetcode-insight](https://github.com/sowmiyan-s/leetcode-insight)
-> No description provided.
+### 🚀 [awesome-claude-skills](https://github.com/sowmiyan-s/awesome-claude-skills)
+> Production-ready Claude Skills for developers, creators, founders, and AI power users.
 <p>
-  <img src="https://img.shields.io/github/stars/sowmiyan-s/leetcode-insight?style=flat-square&logo=github&color=FFD700" alt="Stars">
-  <img src="https://img.shields.io/badge/language-TypeScript-blue?style=flat-square" alt="Language">
+  <img src="https://img.shields.io/github/stars/sowmiyan-s/awesome-claude-skills?style=flat-square&logo=github&color=FFD700" alt="Stars">
+  <img src="https://img.shields.io/badge/language-Misc-blue?style=flat-square" alt="Language">
 </p>
 <!-- PROJECTS_END -->
 
