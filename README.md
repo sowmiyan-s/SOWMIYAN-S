@@ -104,6 +104,13 @@ currently   : Building production-grade AI systems & multi-agent architectures
   <img src="https://img.shields.io/badge/language-Python-blue?style=flat-square" alt="Language">
 </p>
 
+### 🚀 [awesome-claude-skills](https://github.com/sowmiyan-s/awesome-claude-skills)
+> Production-ready Claude Skills for developers, creators, founders, and AI power users.
+<p>
+  <img src="https://img.shields.io/github/stars/sowmiyan-s/awesome-claude-skills?style=flat-square&logo=github&color=FFD700" alt="Stars">
+  <img src="https://img.shields.io/badge/language-Misc-blue?style=flat-square" alt="Language">
+</p>
+
 ### 🚀 [Java-Problem-Solutions](https://github.com/sowmiyan-s/Java-Problem-Solutions)
 > Java DSA problems solved by me . Follow me on LinkedIn  @sowmiyan-s
 <p>
@@ -123,13 +130,6 @@ currently   : Building production-grade AI systems & multi-agent architectures
 <p>
   <img src="https://img.shields.io/github/stars/sowmiyan-s/my-portfolio?style=flat-square&logo=github&color=FFD700" alt="Stars">
   <img src="https://img.shields.io/badge/language-TypeScript-blue?style=flat-square" alt="Language">
-</p>
-
-### 🚀 [awesome-claude-skills](https://github.com/sowmiyan-s/awesome-claude-skills)
-> Production-ready Claude Skills for developers, creators, founders, and AI power users.
-<p>
-  <img src="https://img.shields.io/github/stars/sowmiyan-s/awesome-claude-skills?style=flat-square&logo=github&color=FFD700" alt="Stars">
-  <img src="https://img.shields.io/badge/language-Misc-blue?style=flat-square" alt="Language">
 </p>
 <!-- PROJECTS_END -->
 
