@@ -104,13 +104,6 @@ currently   : Building production-grade AI systems & multi-agent architectures
   <img src="https://img.shields.io/badge/language-Python-blue?style=flat-square" alt="Language">
 </p>
 
-### 🚀 [awesome-claude-skills](https://github.com/sowmiyan-s/awesome-claude-skills)
-> Production-ready Claude Skills for developers, creators, founders, and AI power users.
-<p>
-  <img src="https://img.shields.io/github/stars/sowmiyan-s/awesome-claude-skills?style=flat-square&logo=github&color=FFD700" alt="Stars">
-  <img src="https://img.shields.io/badge/language-Misc-blue?style=flat-square" alt="Language">
-</p>
-
 ### 🚀 [Java-Problem-Solutions](https://github.com/sowmiyan-s/Java-Problem-Solutions)
 > Java DSA problems solved by me . Follow me on LinkedIn  @sowmiyan-s
 <p>
@@ -118,18 +111,25 @@ currently   : Building production-grade AI systems & multi-agent architectures
   <img src="https://img.shields.io/badge/language-Java-blue?style=flat-square" alt="Language">
 </p>
 
+### 🚀 [awesome-claude-skills](https://github.com/sowmiyan-s/awesome-claude-skills)
+> Production-ready Claude Skills for developers, creators, founders, and AI power users.
+<p>
+  <img src="https://img.shields.io/github/stars/sowmiyan-s/awesome-claude-skills?style=flat-square&logo=github&color=FFD700" alt="Stars">
+  <img src="https://img.shields.io/badge/language-Misc-blue?style=flat-square" alt="Language">
+</p>
+
+### 🚀 [GUARD-RAG](https://github.com/sowmiyan-s/GUARD-RAG)
+> GUARD-RAG is a RAG chatbot tool that runs as a Python package and operates completely offline.
+<p>
+  <img src="https://img.shields.io/github/stars/sowmiyan-s/GUARD-RAG?style=flat-square&logo=github&color=FFD700" alt="Stars">
+  <img src="https://img.shields.io/badge/language-Python-blue?style=flat-square" alt="Language">
+</p>
+
 ### 🚀 [We-Share](https://github.com/sowmiyan-s/We-Share)
 > We Share is a open-source desktop app for instant file transfers  with or without a Wi-Fi router
 <p>
   <img src="https://img.shields.io/github/stars/sowmiyan-s/We-Share?style=flat-square&logo=github&color=FFD700" alt="Stars">
   <img src="https://img.shields.io/badge/language-C#-blue?style=flat-square" alt="Language">
-</p>
-
-### 🚀 [my-portfolio](https://github.com/sowmiyan-s/my-portfolio)
-> No description provided.
-<p>
-  <img src="https://img.shields.io/github/stars/sowmiyan-s/my-portfolio?style=flat-square&logo=github&color=FFD700" alt="Stars">
-  <img src="https://img.shields.io/badge/language-TypeScript-blue?style=flat-square" alt="Language">
 </p>
 <!-- PROJECTS_END -->
 
