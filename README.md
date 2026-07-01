@@ -98,7 +98,7 @@ currently   : Building production-grade AI systems & multi-agent architectures
 <!-- PROJECTS_START -->
 
 ### 🚀 [Multi-Agent-Data-Analysis-System-with-CrewAI](https://github.com/sowmiyan-s/Multi-Agent-Data-Analysis-System-with-CrewAI)
-> No description provided.
+> Autonomous Data Intelligence as a Service | A premium, modular data-analyst pipeline powered by LLM-driven agents. 
 <p>
   <img src="https://img.shields.io/github/stars/sowmiyan-s/Multi-Agent-Data-Analysis-System-with-CrewAI?style=flat-square&logo=github&color=FFD700" alt="Stars">
   <img src="https://img.shields.io/badge/language-Python-blue?style=flat-square" alt="Language">
@@ -118,18 +118,18 @@ currently   : Building production-grade AI systems & multi-agent architectures
   <img src="https://img.shields.io/badge/language-Misc-blue?style=flat-square" alt="Language">
 </p>
 
-### 🚀 [GUARD-RAG](https://github.com/sowmiyan-s/GUARD-RAG)
-> GUARD-RAG is a RAG chatbot tool that runs as a Python package and operates completely offline.
+### 🚀 [ML-WorkBench](https://github.com/sowmiyan-s/ML-WorkBench)
+> ML Workbench is a powerful and intuitive Streamlit application designed to streamline your machine learning workflow. From data upload to model deployment, ML Workbench provides a unified interface for all your data analysis needs.
 <p>
-  <img src="https://img.shields.io/github/stars/sowmiyan-s/GUARD-RAG?style=flat-square&logo=github&color=FFD700" alt="Stars">
+  <img src="https://img.shields.io/github/stars/sowmiyan-s/ML-WorkBench?style=flat-square&logo=github&color=FFD700" alt="Stars">
   <img src="https://img.shields.io/badge/language-Python-blue?style=flat-square" alt="Language">
 </p>
 
-### 🚀 [We-Share](https://github.com/sowmiyan-s/We-Share)
-> We Share is a open-source desktop app for instant file transfers  with or without a Wi-Fi router
+### 🚀 [Email-Spam-Detection](https://github.com/sowmiyan-s/Email-Spam-Detection)
+> An advanced machine learning solution designed to classify emails as Spam or Ham (Legitimate) with high precision using Support Vector Machines (SVM).
 <p>
-  <img src="https://img.shields.io/github/stars/sowmiyan-s/We-Share?style=flat-square&logo=github&color=FFD700" alt="Stars">
-  <img src="https://img.shields.io/badge/language-C#-blue?style=flat-square" alt="Language">
+  <img src="https://img.shields.io/github/stars/sowmiyan-s/Email-Spam-Detection?style=flat-square&logo=github&color=FFD700" alt="Stars">
+  <img src="https://img.shields.io/badge/language-Python-blue?style=flat-square" alt="Language">
 </p>
 <!-- PROJECTS_END -->
 
