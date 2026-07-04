@@ -118,17 +118,17 @@ currently   : Building production-grade AI systems & multi-agent architectures
   <img src="https://img.shields.io/badge/language-Misc-blue?style=flat-square" alt="Language">
 </p>
 
+### 🚀 [sowmiyan-s-portfolio](https://github.com/sowmiyan-s/sowmiyan-s-portfolio)
+> A personalized portfolio website showcasing my projects, skills, and experience.
+<p>
+  <img src="https://img.shields.io/github/stars/sowmiyan-s/sowmiyan-s-portfolio?style=flat-square&logo=github&color=FFD700" alt="Stars">
+  <img src="https://img.shields.io/badge/language-TypeScript-blue?style=flat-square" alt="Language">
+</p>
+
 ### 🚀 [ML-WorkBench](https://github.com/sowmiyan-s/ML-WorkBench)
 > ML Workbench is a powerful and intuitive Streamlit application designed to streamline your machine learning workflow. From data upload to model deployment, ML Workbench provides a unified interface for all your data analysis needs.
 <p>
   <img src="https://img.shields.io/github/stars/sowmiyan-s/ML-WorkBench?style=flat-square&logo=github&color=FFD700" alt="Stars">
-  <img src="https://img.shields.io/badge/language-Python-blue?style=flat-square" alt="Language">
-</p>
-
-### 🚀 [Email-Spam-Detection](https://github.com/sowmiyan-s/Email-Spam-Detection)
-> An advanced machine learning solution designed to classify emails as Spam or Ham (Legitimate) with high precision using Support Vector Machines (SVM).
-<p>
-  <img src="https://img.shields.io/github/stars/sowmiyan-s/Email-Spam-Detection?style=flat-square&logo=github&color=FFD700" alt="Stars">
   <img src="https://img.shields.io/badge/language-Python-blue?style=flat-square" alt="Language">
 </p>
 <!-- PROJECTS_END -->
