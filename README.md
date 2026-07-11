@@ -104,13 +104,6 @@ currently   : Building production-grade AI systems & multi-agent architectures
   <img src="https://img.shields.io/badge/language-Python-blue?style=flat-square" alt="Language">
 </p>
 
-### 🚀 [Java-Problem-Solutions](https://github.com/sowmiyan-s/Java-Problem-Solutions)
-> Java DSA problems solved by me . Follow me on LinkedIn  @sowmiyan-s
-<p>
-  <img src="https://img.shields.io/github/stars/sowmiyan-s/Java-Problem-Solutions?style=flat-square&logo=github&color=FFD700" alt="Stars">
-  <img src="https://img.shields.io/badge/language-Java-blue?style=flat-square" alt="Language">
-</p>
-
 ### 🚀 [awesome-claude-skills](https://github.com/sowmiyan-s/awesome-claude-skills)
 > Production-ready Claude Skills for developers, creators, founders, and AI power users.
 <p>
@@ -118,18 +111,25 @@ currently   : Building production-grade AI systems & multi-agent architectures
   <img src="https://img.shields.io/badge/language-Misc-blue?style=flat-square" alt="Language">
 </p>
 
+### 🚀 [Java-Problem-Solutions](https://github.com/sowmiyan-s/Java-Problem-Solutions)
+> Java DSA problems solved by me . Follow me on LinkedIn  @sowmiyan-s
+<p>
+  <img src="https://img.shields.io/github/stars/sowmiyan-s/Java-Problem-Solutions?style=flat-square&logo=github&color=FFD700" alt="Stars">
+  <img src="https://img.shields.io/badge/language-Java-blue?style=flat-square" alt="Language">
+</p>
+
+### 🚀 [FIFA-REFEREE](https://github.com/sowmiyan-s/FIFA-REFEREE)
+> A live ai referee for football game
+<p>
+  <img src="https://img.shields.io/github/stars/sowmiyan-s/FIFA-REFEREE?style=flat-square&logo=github&color=FFD700" alt="Stars">
+  <img src="https://img.shields.io/badge/language-TypeScript-blue?style=flat-square" alt="Language">
+</p>
+
 ### 🚀 [sowmiyan-s-portfolio](https://github.com/sowmiyan-s/sowmiyan-s-portfolio)
 > A personalized portfolio website showcasing my projects, skills, and experience.
 <p>
   <img src="https://img.shields.io/github/stars/sowmiyan-s/sowmiyan-s-portfolio?style=flat-square&logo=github&color=FFD700" alt="Stars">
   <img src="https://img.shields.io/badge/language-TypeScript-blue?style=flat-square" alt="Language">
-</p>
-
-### 🚀 [ML-WorkBench](https://github.com/sowmiyan-s/ML-WorkBench)
-> ML Workbench is a powerful and intuitive Streamlit application designed to streamline your machine learning workflow. From data upload to model deployment, ML Workbench provides a unified interface for all your data analysis needs.
-<p>
-  <img src="https://img.shields.io/github/stars/sowmiyan-s/ML-WorkBench?style=flat-square&logo=github&color=FFD700" alt="Stars">
-  <img src="https://img.shields.io/badge/language-Python-blue?style=flat-square" alt="Language">
 </p>
 <!-- PROJECTS_END -->
 
