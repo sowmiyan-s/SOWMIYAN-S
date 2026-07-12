@@ -97,10 +97,10 @@ currently   : Building production-grade AI systems & multi-agent architectures
 
 <!-- PROJECTS_START -->
 
-### 🚀 [Multi-Agent-Data-Analysis-System-with-CrewAI](https://github.com/sowmiyan-s/Multi-Agent-Data-Analysis-System-with-CrewAI)
+### 🚀 [crewlyze](https://github.com/sowmiyan-s/crewlyze)
 > Autonomous Data Intelligence as a Service | A premium, modular data-analyst pipeline powered by LLM-driven agents. 
 <p>
-  <img src="https://img.shields.io/github/stars/sowmiyan-s/Multi-Agent-Data-Analysis-System-with-CrewAI?style=flat-square&logo=github&color=FFD700" alt="Stars">
+  <img src="https://img.shields.io/github/stars/sowmiyan-s/crewlyze?style=flat-square&logo=github&color=FFD700" alt="Stars">
   <img src="https://img.shields.io/badge/language-Python-blue?style=flat-square" alt="Language">
 </p>
 
@@ -118,17 +118,17 @@ currently   : Building production-grade AI systems & multi-agent architectures
   <img src="https://img.shields.io/badge/language-Java-blue?style=flat-square" alt="Language">
 </p>
 
-### 🚀 [FIFA-REFEREE](https://github.com/sowmiyan-s/FIFA-REFEREE)
-> A live ai referee for football game
-<p>
-  <img src="https://img.shields.io/github/stars/sowmiyan-s/FIFA-REFEREE?style=flat-square&logo=github&color=FFD700" alt="Stars">
-  <img src="https://img.shields.io/badge/language-TypeScript-blue?style=flat-square" alt="Language">
-</p>
-
 ### 🚀 [sowmiyan-s-portfolio](https://github.com/sowmiyan-s/sowmiyan-s-portfolio)
 > A personalized portfolio website showcasing my projects, skills, and experience.
 <p>
   <img src="https://img.shields.io/github/stars/sowmiyan-s/sowmiyan-s-portfolio?style=flat-square&logo=github&color=FFD700" alt="Stars">
+  <img src="https://img.shields.io/badge/language-TypeScript-blue?style=flat-square" alt="Language">
+</p>
+
+### 🚀 [FIFA-REFEREE](https://github.com/sowmiyan-s/FIFA-REFEREE)
+> A live ai referee for football game
+<p>
+  <img src="https://img.shields.io/github/stars/sowmiyan-s/FIFA-REFEREE?style=flat-square&logo=github&color=FFD700" alt="Stars">
   <img src="https://img.shields.io/badge/language-TypeScript-blue?style=flat-square" alt="Language">
 </p>
 <!-- PROJECTS_END -->
